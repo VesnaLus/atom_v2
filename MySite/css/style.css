@@ -3,7 +3,7 @@ color: blue;
 text-align: center;
 }
 tei-body {
-color: #ccc;
+color: red;
 }
 
 tei-head::before {
