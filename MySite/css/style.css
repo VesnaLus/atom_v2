@@ -1,0 +1,11 @@
+tei-head {
+color: blue;
+text-align: center;
+}
+tei-body {
+color: #ccc;
+}
+
+tei-head::before {
+  content: "1. "
+}
